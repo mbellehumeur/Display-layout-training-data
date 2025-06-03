@@ -1,4 +1,7 @@
-# Standardized, personal training data for GenAI hanging protocols
+
+# NA-MIC Project week #43
+
+# Standardized, personal training data for GenAI /display layout hanging protocols
  
  ## Introduction
  Gen AI / LLMs can today produce a good draft of report impressions based on learning the report history of the radiologist.
